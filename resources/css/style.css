@@ -63,6 +63,11 @@ a {
   background: url("../images/the-flatiron-building.png") no-repeat center;
 }
 
+ #home li {
+   padding-bottom: 5px;
+   padding-top: 5px;
+ }
+
 .designed {
   background: url("../images/the-flatiron-building.png") no-repeat center;
 }

@@ -47,16 +47,17 @@ a {
 .footer {
   background-color: dimgrey;
   text-align: left;
+
 }
 
-.footer p {
-  color: white;
-  font-size: 11px;
-}
 
 .footer li {
+  color: white;
+  font-size: 11px;
   display: inline;
 }
+
+
 
 #home {
   background: url("../images/the-flatiron-building.png") no-repeat center;

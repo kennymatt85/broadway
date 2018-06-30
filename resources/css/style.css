@@ -32,7 +32,6 @@ p {
 li {
   color: white;
   font-size: 18px
-  list-style: none;
 }
 
 .designed h3 {
@@ -46,4 +45,12 @@ li {
 .footer p {
   color: white;
   font-size: 11px;
+}
+
+#home {
+  background: url("../images/the-flatiron-building.png") no-repeat center;
+}
+
+.designed {
+  background: url("../images/the-flatiron-building.png") no-repeat center;
 }

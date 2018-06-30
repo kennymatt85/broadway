@@ -29,7 +29,13 @@ p {
   font-size: 14px;
 }
 
-li {
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+a {
   color: white;
   font-size: 18px
 }
@@ -40,11 +46,16 @@ li {
 
 .footer {
   background-color: dimgrey;
+  text-align: left;
 }
 
 .footer p {
   color: white;
   font-size: 11px;
+}
+
+.footer li {
+  display: inline;
 }
 
 #home {
